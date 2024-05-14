@@ -1,3 +1,44 @@
-p{
-    color: red;
+.parent {
+    display: flex;
+    flex-direction: column;
+    background: gold;
+    padding: 10px;
+}
+
+.parent div {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.item1 {
+    background: turquoise;
+}
+
+.item2 {
+    background: blue;
+}
+
+.item3 {
+    background: rebeccapurple
+}
+
+.item4 {
+    background: green;
+}
+
+.item5 {
+    background: burlywood;
+}
+
+.item6 {
+    background: wheat;
+}
+
+.item7 {
+    background: black;
+}
+
+.item8 {
+    background: yellow;
 }
